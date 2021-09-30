@@ -1,44 +1,40 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars.githubusercontent.com/u/43147975?v=4">
 
 <h2> Hey there! I'm Abdur Rahim Refat.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science  at Bangladesh University of Business and Technology (BUBT).
+- 💼 &nbsp; Working as a Software Engineer at adency.co.
+- 🌱 &nbsp; Learning more about database structure and Vue Js.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![PHP](https://www.bing.com/th?id=A895578a8bec6c85a23f56966e44aed78&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Laravel](https://www.bing.com/th?id=Add74703b6816aec3d7a60121bb2ceb08&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+ 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Jira](https://www.bing.com/th?id=A5211a353136035277b6e4e519aebff88&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Slack](https://www.bing.com/th?id=Abf1f2d9f19ec991c1183f8389f024483&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Atom](https://www.bing.com/th?id=Ad3a297754e357b1dfb24904e1962428a&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Sublime text](https://www.bing.com/th?id=A01eaab848ac12a3afc550f3d8dfc5d39&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+
 
 <br/>
 
