@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Laravel](https://www.bing.com/th?id=Add74703b6816aec3d7a60121bb2ceb08&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -27,12 +27,12 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jira](https://www.bing.com/th?id=A5211a353136035277b6e4e519aebff88&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
-  ![Slack](https://www.bing.com/th?id=Abf1f2d9f19ec991c1183f8389f024483&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Atom](https://www.bing.com/th?id=Ad3a297754e357b1dfb24904e1962428a&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom&logoColor=2bc937)
   ![Sublime text](https://www.bing.com/th?id=A01eaab848ac12a3afc550f3d8dfc5d39&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
 
 
