@@ -34,7 +34,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom&logoColor=2bc937)
-  ![Sublime text](https://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=Sublime text&logoColor=fd9502)
+  ![Sublime text](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=Sublime&logoColor=fd9502)
 
 
 <br/>
