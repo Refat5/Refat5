@@ -27,13 +27,14 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom&logoColor=2bc937)
-  ![Sublime text](https://www.bing.com/th?id=A01eaab848ac12a3afc550f3d8dfc5d39&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![Sublime text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=Sublime text&logoColor=fd9502)
 
 
 <br/>
