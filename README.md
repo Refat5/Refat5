@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/43147975?v=4">
+<!-- <img src="https://avatars.githubusercontent.com/u/43147975?v=4"> -->
 
 <h2> Hey there! I'm Abdur Rahim Refat.</h2>
 
@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![PHP](https://www.bing.com/th?id=A895578a8bec6c85a23f56966e44aed78&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Laravel](https://www.bing.com/th?id=Add74703b6816aec3d7a60121bb2ceb08&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM)
  
 - 🌐 &nbsp;
